@@ -1,0 +1,12 @@
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\bin\Debug\SimpleclockAlarm.exe.config
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\bin\Debug\SimpleclockAlarm.exe
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\bin\Debug\SimpleclockAlarm.pdb
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\obj\Debug\SimpleclockAlarm.csproj.AssemblyReference.cache
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\obj\Debug\SimpleclockAlarm.Form1.resources
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\obj\Debug\SimpleclockAlarm.Properties.Resources.resources
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\obj\Debug\SimpleclockAlarm.csproj.GenerateResource.cache
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\obj\Debug\SimpleclockAlarm.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\obj\Debug\SimpleclockAlarm.exe
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\obj\Debug\SimpleclockAlarm.pdb
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\obj\Debug\Interop.WMPLib.dll
+C:\Users\Сергій\Source\Repos\SimpleclockAlarm\SimpleclockAlarm\obj\Debug\SimpleclockAlarm.csproj.ResolveComReference.cache
