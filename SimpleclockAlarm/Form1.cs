@@ -143,7 +143,7 @@ namespace SimpleclockAlarm
 
                 timer1.Enabled = false;
 
-                button2.BackColor = Color.MintCream;
+             
                 button2.Text = "Запустити";
             }
             else
@@ -185,7 +185,6 @@ namespace SimpleclockAlarm
                 }
                 else
                 {
-                    button2.BackColor = Color.LavenderBlush;
                     button2.Text = "Стоп";
 
                     Hour = textBox1.Text;
@@ -287,6 +286,40 @@ namespace SimpleclockAlarm
             {
                 textBox3.Text = "0" + textBox3.Text;
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ChangeTheme(SystemColors.Control, SystemColors.ControlText);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ChangeTheme(SystemColors.ControlText, SystemColors.Control);
+
+        }
+
+        private void ChangeTheme(Color backgroundColor, Color textColor)
+        {
+            BackColor = backgroundColor;
+            ForeColor = textColor;
+
+            foreach (Control control in Controls)
+            {
+                control.BackColor = backgroundColor;
+                control.ForeColor = textColor;
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ChangeTheme(Color.LightGreen, SystemColors.ControlText);
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            ChangeTheme(Color.Aquamarine, SystemColors.ControlText);
+
         }
     }
 }
